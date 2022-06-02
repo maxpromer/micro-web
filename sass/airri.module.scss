@@ -238,3 +238,16 @@
         color: #95A5A6;
     }
 }
+
+.MakerPopupLoading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    width: 100%;
+}
+
+.autoUpdateSelect {
+    text-decoration:underline;
+    text-decoration-style: dotted;
+}
